@@ -1,0 +1,42 @@
+#EXTM3U
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="", France Info
+https://stream-04.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOEiwTrj3tcK-HL7uzSdPtMxYkBmy2PdXbSAWjoj8qS8u)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lsv4
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/2HSi5Q7.png" tvg-id="", BFM TV
+https://stream-04.sv4.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUhSHr4kSE4G0Q7IxNxvSOxvo)/dm/3/x5vngby/d/live-4.m3u8#cell=lsv4
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/rpL3zZm.jpg" tvg-id="", La Chaine L'Equipe
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/vAFIElz.jpg" tvg-id="", CNEWS
+https://stream-02.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOAZiv3v9thT2og_mYqtcZdYnmsL5QdslNOlhmyt2B5bk)/p/dm/3/x5idxxp/s/live-4.m3u8#cell=lsv4
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/MfvEkjH.jpg" tvg-id="", C8
+https://stream-04.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOGdVJ4cvA4Zy04IHbbiwCnQoBYNx51Jhykt0g8TsbRFr)/p/dm/3/x5idx4k/d/live-2.m3u8#cell=lsv4
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/Zg5o26V.png" tvg-id="", Canal +
+https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOIwvvBj9F-tKCSixK6N5lPeHWOAPy9DtWgucgPbyEyG3)/p/dm/3/x5idy49/d/live-4.m3u8#cell=lsv4
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/sKV2aYb.png" tvg-id="", RTL (video feed of radio channel)
+https://stream-01.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxnPPm1W3VtMrxz9rHILcyg)/dm/3/x7rkctx/s/live-4.m3u8#cell=lsv4
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", LCP (TNT)
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", LCP (100%)
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+
+#EXTINF:-1 group-title="France" tvg-logo="https://i.imgur.com/6RSsVOW.png" tvg-id="", Public Senat
+https://stream-03.sv4.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-kxRLUL4dm6i_tNTbBmKO7dk)/dm/3/xkxbzc/d/live-2.m3u8#cell=lsv4
