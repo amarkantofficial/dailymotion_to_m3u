@@ -1,32 +1,23 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-France Info | France | https://i.imgur.com/I3lw9Pf.png |
+France Info | French | https://i.imgur.com/I3lw9Pf.png |
 https://www.dailymotion.com/video/x4rdeu6
 
-BFM TV | France | https://i.imgur.com/2HSi5Q7.png |
+BFM TV | French | https://i.imgur.com/2HSi5Q7.png |
 https://www.dailymotion.com/video/xgz4t1
 
-La Chaine L'Equipe | France | https://i.imgur.com/rpL3zZm.jpg |
-https://www.dailymotion.com/video/x2lefik
-
-CNEWS | France | https://i.imgur.com/vAFIElz.jpg |
+CNEWS | French | https://i.imgur.com/vAFIElz.jpg |
 https://www.dailymotion.com/video/x3b68jn
 
-C8 | France | https://i.imgur.com/MfvEkjH.jpg |
+C8 | French | https://i.imgur.com/MfvEkjH.jpg |
 https://www.dailymotion.com/video/x5gv5rr
 
-Canal + | France | https://i.imgur.com/Zg5o26V.png |
+Canal + | French | https://i.imgur.com/Zg5o26V.png |
 https://www.dailymotion.com/video/x5gv6be
 
-RTL (video feed of radio channel) | France | https://i.imgur.com/sKV2aYb.png |
+RTL (video feed of radio channel) | French | https://i.imgur.com/sKV2aYb.png |
 https://www.dailymotion.com/video/xl1km0
 
-LCP (TNT) | France | |
-https://www.dailymotion.com/video/xji3qy
-
-LCP (100%) | France | |
-https://www.dailymotion.com/video/xgepjr
-
-Public Senat | France | https://i.imgur.com/6RSsVOW.png |
+Public Senat | French | https://i.imgur.com/6RSsVOW.png |
 https://www.dailymotion.com/video/xkxbzc
