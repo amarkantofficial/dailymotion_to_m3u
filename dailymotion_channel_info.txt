@@ -1,7 +1,7 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-France Info | French | https://i.imgur.com/I3lw9Pf.png |
+France Info (DM)| French | https://i.imgur.com/I3lw9Pf.png |
 https://www.dailymotion.com/video/x4rdeu6
 
 BFM TV | French | https://i.imgur.com/2HSi5Q7.png |
