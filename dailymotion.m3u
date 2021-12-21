@@ -15,13 +15,13 @@
 https://stream-02.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOB6NiUUaw7r4sPQQThHszdbU_XAxyIYIPSEB43JUGSII)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/2HSi5Q7.png" tvg-id="", BFM TV
-https://stream-01.sv4.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUhV5zuTsJm4vOvN3bs4vXCFA)/dm/3/x5vngby/d/live-4.m3u8#cell=lsv4
+https://stream-02.sv4.dailymotion.com/sec(zKqaDcKKZmq-8nlEtRtUhdU5K4Xnb22IJqt4iFe10jU)/dm/3/x5vngby/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/vAFIElz.jpg" tvg-id="", CNEWS
-https://stream-02.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOE8ZhBv8ATXV2b--5t5fKP0XH8AvVa7a0VFF81n_mRv5)/p/dm/3/x5idxxp/s/live-4.m3u8#cell=lsv4
+https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOE8ZhBv8ATXV2b--5t5fKP0XH8AvVa7a0VFF81n_mRv5)/p/dm/3/x5idxxp/s/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/MfvEkjH.jpg" tvg-id="", C8
-https://stream-04.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMfNGBHcNHdg3NhqUdiOIkEENUs4Boq3JvpgeDh4t_z1)/p/dm/3/x5idx4k/d/live-4.m3u8#cell=lsv4
+https://stream-02.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMfNGBHcNHdg3NhqUdiOIkEENUs4Boq3JvpgeDh4t_z1)/p/dm/3/x5idx4k/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/2kfVg4K.jpg" tvg-id="", euronews (en français)
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOJ56eh-EnToqQZFQMmtrEFzh3gVgoUSF84vpvABlELOI)/p/dm/3/x5idy49/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/6RSsVOW.png" tvg-id="", Public Senat
-https://stream-01.sv4.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-k2mQ-qdoQj6BufBG-iIp7zE)/dm/3/xkxbzc/d/live-2.m3u8#cell=lsv4
+https://stream-02.sv4.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-k2mQ-qdoQj6BufBG-iIp7zE)/dm/3/xkxbzc/d/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/sKV2aYb.png" tvg-id="", RTL (video feed of radio channel)
-https://stream-01.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjzfGgCcDr0OGPbHEP6X4IkA)/dm/3/x7rkctx/s/live-4.m3u8#cell=lsv4
+https://stream-02.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjzfGgCcDr0OGPbHEP6X4IkA)/dm/3/x7rkctx/s/live-4.m3u8#cell=lsv4
